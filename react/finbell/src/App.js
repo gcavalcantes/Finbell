@@ -1,8 +1,7 @@
 function App() {
   return (
-    <div>
-      <p>Finbell</p>
-    </div>
+    <h1>lmao
+    </h1>
   )
 }
 
